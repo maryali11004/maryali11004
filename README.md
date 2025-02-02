@@ -12,8 +12,8 @@ I’m a 20-year-old student diving deep into the world of AI, machine learning, 
 
 - **AI Adventures:** Building models and exploring advanced algorithms 🤖
 - **Arduino Fun:** Crafting smart circuits and experimenting with electronics 🛠️
-- **Web Development:** Creating sleek websites and exploring exciting new technologies 🌐
-- **Eco-Tech:** Using IoT and AI to address environmental challenges and promote sustainability 🌍
+
+
 
 ## Skills & Tools
 
