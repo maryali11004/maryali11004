@@ -26,8 +26,6 @@ Driven by curiosity and purpose, I love solving real-world problems with data an
 
 ---
 
-<img src="https://github.com/user-attachments/assets/22420b6f-4a26-4c48-9600-273cc05634a7" alt="Coding GIF" width="300" style="float: right; margin: 10px;" />
-
 ## 🧠 Notable Projects
 
 - **Sign Language Interpreter:** Built a 5-layer CNN using TensorFlow and OpenCV (98% accuracy)
