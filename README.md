@@ -1,44 +1,66 @@
-# Hey there! I’m Maryam!<img src="https://github.com/user-attachments/assets/d10bc487-bf4e-4d73-8e9a-1e77bb425a89" alt="Description of GIF" width="90" style="float: right; margin: 0px;" />
+# Hi, I’m Maryam! <img src="https://github.com/user-attachments/assets/d10bc487-bf4e-4d73-8e9a-1e77bb425a89" alt="Waving GIF" width="90" style="float: right; margin: 0px;" />
+
+Welcome to my GitHub! I'm a Computer Science graduate from Egypt specializing in **Artificial Intelligence** with hands-on experience in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP**.
+
+Driven by curiosity and purpose, I love solving real-world problems with data and intelligent systems. My work blends cutting-edge technologies with creativity to build impactful solutions.
+
+---
+
+## 💡 About Me
+
+- 🎓 AI-focused Computer Science graduate (GPA 3.8)
+- 🤖 Machine Learning Engineer with a focus on NLP, Computer Vision & model deployment
+- 💬 Built chatbots, interpreters, and smart systems using modern frameworks
+- 🛠️ Comfortable with Python, C++, SQL, and working across TensorFlow, PyTorch, OpenCV, and Scikit-learn
+- 🚀 Currently exploring large language models, YOLOv8, and model-serving techniques
+
+---
 
 
-Welcome to my GitHub profile! I’m Maryam, a tech enthusiast from Egypt with a love for coding, creativity, and making a difference through technology. 💻✨
+## 🛠️ Skills & Tools
 
+- **Languages:** Python, C++, Java, SQL, MATLAB  
+- **Libraries:** TensorFlow, PyTorch, OpenCV, Scikit-learn, Pandas, NLTK  
+- **Frameworks & Tools:** Keras, Caffe, Mediapipe, Git, Docker, Gradio  
+- **Platforms:** Google Colab, VS Code, Jupyter, Tinkercad, Arduino IDE  
 
-## About Me
+---
 
-I’m a 20-year-old student diving deep into the world of AI, machine learning, and robotics. My journey is all about blending innovation with practical solutions. When I’m not coding, I’m exploring new ideas and working on projects that help make a positive impact. 💻🩷
+<img src="https://github.com/user-attachments/assets/22420b6f-4a26-4c48-9600-273cc05634a7" alt="Coding GIF" width="300" style="float: right; margin: 10px;" />
 
-## What I’m Working On 
+## 🧠 Notable Projects
 
-- **AI Adventures:** Building models and exploring advanced algorithms 🤖
-- **Arduino Fun:** Crafting smart circuits and experimenting with electronics 🛠️
+- **Sign Language Interpreter:** Built a 5-layer CNN using TensorFlow and OpenCV (98% accuracy)
+- **Fake News Detection:** Fine-tuned BERT model for binary classification with real-time inference
+- **Sleep Apnea Detection:** SVM and RandomForest models trained on health data (96% accuracy)
+- **YOLOv8 Object Detection:** Trained on a custom dataset with modified architecture
+- **NLP Insight App:** Deployed FLAN-T5 and Sentence-BERT in a Gradio app for document analysis
 
+---
 
+## ✨ A Bit More About Me
 
-## Skills & Tools
+- I enjoy translating complex ideas into accessible solutions  
+- I'm passionate about teaching — I've taught ML to kids using hands-on activities  
+- Outside of tech, I love fashion, design, and storytelling  
+- Strategy games and problem-solving are my downtime go-tos 🎮
 
-- **Languages:** Python 🐍, Java ☕, C++ 💻
-- **Libraries:** TensorFlow, Keras, Scikit-Learn 📚
-- **Platforms:** Google Colab, Tinkercad, VS Code 🖥️
+---
 
-<img src="https://github.com/user-attachments/assets/22420b6f-4a26-4c48-9600-273cc05634a7" alt="Fun GIF" width="300" style="float: right; margin: 10px;" />
+## 📬 Let’s Connect!
 
-## Fun Tidbits
+I'm always open to interesting opportunities, collaborations, or conversations.
 
-- I’m interested in fashion and exploring new ideas ✨
-- I enjoy solving challenging problems and discovering new ways to apply technology 🔍💡
-- When i have nothing to do i usually waste my time playing games 🎮
-  
+- [📎 LinkedIn](https://www.linkedin.com/in/maryam-ali-18838a1b6/)
+- [📁 GitHub](https://github.com/maryali11004)
+- [📫 Email](mailto:maryamali047@icloud.com)
 
-# Let’s Connect!
+---
 
-**I’d love to hear from you! Whether you want to chat about tech, share ideas, or just connect, feel free to reach out:**
+### Thanks for visiting! 🌟
 
-[LinkedIn](https://www.linkedin.com/in/maryam-ali-18838a1b6/) 💌
+<img src="https://github.com/user-attachments/assets/65dda458-77ae-4ce2-9b29-fd2afa11d459" alt="Thanks GIF" width="100" style="float: right; margin: 10px;" />
 
-### Thanks for stopping by my profile! 🌟
-
-<img src="https://github.com/user-attachments/assets/65dda458-77ae-4ce2-9b29-fd2afa11d459" alt="Description of GIF" width="100" align = 'right' style="float: right; margin: 10px;" />
 
 
 
